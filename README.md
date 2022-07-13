@@ -28,16 +28,6 @@
 
 <p align="left">Sobre mim: <br><br>olá, seja bem vindo! 👋 veja meu curriculo em https://drive.google.com/file/d/1ovvkKeM8Un0EJxE1ErbfKNS4LsyLzDjB/view?usp=sharing infelizmente nunca tive tempo de atualizar meus projetos regularmente, por isto estou fazendo isto agora aos poucos, peço para que se você quiser realmente ver meus projetos e experiencias me contate: whatsapp: 51 999292417 linkedin: www.linkedin.com/in/gcsousa-engcomp email: guilhermecamargodesousa@gmail.com</p>
 
-###
-
-<div align="center">
-  <a href="https://spotify-recently-played-readme.vercel.app/api?user=22drcq7i23pfdf6u6bisqntzi&count=5">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=10&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
