@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Sobre mim: <br><br>olá, seja bem vindo! 👋 veja meu curriculo em https://drive.google.com/file/d/1ovvkKeM8Un0EJxE1ErbfKNS4LsyLzDjB/view?usp=sharing infelizmente nunca tive tempo de atualizar meus projetos regularmente, por isto estou fazendo isto agora aos poucos, peço para que se você quiser realmente ver meus projetos e experiencias me contate: whatsapp: 51 999292417 linkedin: www.linkedin.com/in/gcsousa-engcomp email: guilhermecamargodesousa@gmail.com</p>
+<p align="left">Sobre mim: <br><br>olá, seja bem vindo! 👋 veja meu curriculo em https://drive.google.com/file/d/1ovvkKeM8Un0EJxE1ErbfKNS4LsyLzDjB/view?usp=sharing infelizmente nunca tive tempo de atualizar meus projetos regularmente, por isto estou fazendo isto agora aos poucos, peço para que se você quiser realmente ver meus projetos e experiencias me contate: whatsapp: 51 996199534 linkedin: www.linkedin.com/in/gcsousa-engcomp email: guilhermecamargodesousa@gmail.com</p>
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
