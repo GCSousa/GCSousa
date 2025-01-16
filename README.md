@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Whatsapp: 5551992409978 </br>linkedin:(https://www.linkedin.com/in/guilherme-sousa-fullstack/) </br>email: guilhermecamargodesousa@gmail.com</p>
+<p align="left">Whatsapp: 51982242503 </br>linkedin:(https://www.linkedin.com/in/guilherme-sousa-fullstack/) </br>email: guilhermecamargodesousa@gmail.com</p>
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
